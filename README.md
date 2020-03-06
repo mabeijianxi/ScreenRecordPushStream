@@ -76,6 +76,8 @@ ffplay rtmp://localhost:1935/rtmplive/xxx.flv
 运行demo以后输入相应地址，本地 IP 用 ifconfig 获取下即可。
 
 <video src="https://github.com/mabeijianxi/pic-trusteeship/raw/master/pic/record_v.mp4" width="681px" height="391px" controls="controls"></video>
+![demo_pic](https://github.com/mabeijianxi/pic-trusteeship/raw/master/pic/image.png)
+
 
 [点击观看视频效果](https://github.com/mabeijianxi/pic-trusteeship/raw/master/pic/record_v.mp4)
 
