@@ -1,5 +1,5 @@
 # ScreenRecordPushStream
-这是一个基于 rtmp 协议的 Android 录屏推流demo 
+这是一个基于 rtmp 协议的 Android 录屏推流demo ([Demo APK 下载](https://www.pgyer.com/9sUJ))
 
 
 ## 使用方法
@@ -73,7 +73,7 @@ ffplay rtmp://localhost:1935/rtmplive/xxx.flv
 
 ##### 四、安卓客户端上推流
 
-demo 用了 [https://github.com/lakeinchina/librestreaming](https://github.com/lakeinchina/librestreaming)中的RTMP的代码，运行demo以后输入相应地址，本地 IP 用 ifconfig 获取下即可。([Demo APK 下载](https://www.pgyer.com/9sUJ))
+demo 用了 [https://github.com/lakeinchina/librestreaming](https://github.com/lakeinchina/librestreaming)中的RTMP的代码，运行demo以后输入相应地址，本地 IP 用 ifconfig 获取下即可。
 
 <video src="https://github.com/mabeijianxi/pic-trusteeship/raw/master/pic/record_v.mp4" width="681px" height="391px" controls="controls"></video>
 ![demo_pic](https://github.com/mabeijianxi/pic-trusteeship/raw/master/pic/image.png)
