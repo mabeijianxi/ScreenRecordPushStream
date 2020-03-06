@@ -1,5 +1,5 @@
 # ScreenRecordPushStream
-这是一个基于 rtmp 协议的 Android 录屏推流demo ([Demo APK 下载](https://www.pgyer.com/9sUJ))
+这是一个基于 rtmp 协议的 Android 录屏推流demo ([Demo APK 下载](https://github.com/mabeijianxi/ScreenRecordPushStream/raw/master/test_source/TestDebug.apk))
 
 
 ## 使用方法
