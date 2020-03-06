@@ -75,7 +75,10 @@ ffplay rtmp://localhost:1935/rtmplive/xxx.flv
 
 运行demo以后输入相应地址，本地 IP 用 ifconfig 获取下即可。
 
-<video src="https://github.com/mabeijianxi/pic-trusteeship/raw/master/pic/record_v.mp4" width="800px" height="600px" controls="controls"></video>
+<video src="https://github.com/mabeijianxi/pic-trusteeship/raw/master/pic/record_v.mp4" width="681px" height="391px" controls="controls"></video>
 
+[点击观看视频效果](https://github.com/mabeijianxi/pic-trusteeship/raw/master/pic/record_v.mp4)
 
+## 后期计划
+可以发现node-media-server 中加入了些buffer，在拉流的时候明显能感觉到延迟。后期可能会移植live555到手机端上搭建服务，这样在客户端只需要一个拉流播放器就可以了，比较便捷。
 
